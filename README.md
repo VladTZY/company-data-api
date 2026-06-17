@@ -1,4 +1,4 @@
-# Veridion SWE Challenge — Company Data Extraction & Match API
+# SWE Challenge — Company Data Extraction & Match API
 
 This project crawls ~1000 company websites for phone numbers, social links and
 addresses, merges what it finds with the company-names dataset into Elasticsearch,
